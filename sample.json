@@ -1,0 +1,71 @@
+[
+   {
+      "name":"Alexey Koyro",
+      "location":"United States",
+      "current_position":"Lead Java Developer at EPAM Systems",
+      "experience":[
+         "Lead Java Developer at EPAM Systems November 2018 - Present (1 year 4 months)",
+         "Java/JavaEE dev at EPAM Systems December 2015 - Present (4 years 3 months)",
+         "Java/JavaEE developer at EffectiveSoft December 2011 - December 2015 (4 years 1 month)"
+      ],
+      "education":[
+         "Belarusian State University 2007 - 2012"
+      ]
+   },
+   {
+      "current_position":"Senior Registered Nurse, MSN",
+      "summary":"I currently work a medical floor and have obtained my MSN- Nursing Informatics degree. I will soon test for my certification and pursue a position in Nursing Informatics.",
+      "experience":[
+         "Sr. Registered Nurse at South Georgia Medical Center March 2014 - Present (6 years)",
+         "Travel Registered Nurse at Accountable Healthcare Staffing April 2013 - January 2016 (2 years 10 months)",
+         "Registered Nurse at Tift Regional Health System June 2011 - May 2013 (2 years)"
+      ],
+      "education":[
+         "Walden University Master of Science Nursing-Informatics, 2017 - 2019",
+         "Albany State University Bachelor of Science - BS, 2008 - 2011",
+         "Abraham Baldwin Agricultural College Some nursing courses, 2007 - 2008",
+         "Troy University 2005 - 2006"
+      ]
+   },
+   {
+      "name":"art lee",
+      "location":"San Jose, California",
+      "current_position":"ML Devops architect at Groupware Technology 1+669-282-5968",
+      "summary":"Having years of Developer, DevOps, systems integrator, systems engineer for Ericsson, Oracle, Comcast, Samsung , Cisco, NVidia, SAP ,EBay and more. I am seeking a remote or SF bay area job.",
+      "experience":[
+         "ML Devops architect at Groupware Technology July 2019 - November 2019 (5 months)",
+         "design landscape of kubernets, openshift, Nvidia DGX, dkube, cnvrg.io, HPE Vast, openstack(heat, nova, neutron), vmware,citrix xen, kubeflow, tensorsflow, netapp(trident), pure storage, wekaio, ceph, clusters and masters, network(cisco, mellanox, juniper), AWS, GCP, Azuremanage pod schedules, application logs and lifecycleImplement TLS on cluster along with ingress rulesAdmin storage objects, demo and teachTrouble shoot apps, control plane, worker nodes, and networking and CNI Python, nodejs, pytorch, scala",
+         "Java Engineer at Airbnb December 2018 - July 2019 (8 months)",
+         "building large scale distributed scalable Micro Services solutions with Kubernetes clusters in AWS/Google/Azure, Jenkins CI/CD&bull; Execute on the software development strategy to enhance our fast-moving cloud solution&bull; Design, Develop and Implement scalable micro-service-based cloud solutions&bull; Contribute to building a CI/CD solution for efficient and automated delivery of Micro Services&bull; Understand and implement software development/engineering lifecycle concepts to drive features from conception to delivery&bull; Collaborate closely with the product management, dev-ops, and QA teams to achieve quality releases&bull; Build Terraform and Ansible for development teams&bull; Python, Golang, Java and/or C for building modular solutions",
+         "NodeJS Engineer at Kaiser Permanente September 2018 - December 2018 (4 months)",
+         "Kubernetes clusters in AWS/Google/Azure, Jenkins CI/CD Datapower logtarget, logtemp, archival, alerts, filters, cryptogrpraphy Bluemix PaaS, IaaS devops deployments, Cloud catalogs, ACL, IAM, PSIRT CloudFoundry bluemix integration and artifacts nodejs is, datatypes, console, loggin, NPM, callbacks, REPL, API functions, Apigee Edge api gateway, platform, mashery security, Data integration DigitalML Ignite API build, plan, portfolio, lifecycles Docker, grafanna ui and backend and prometheus Virtual machines,Availability and scale sets, App Services,Batch accounts,Service Fabric clusters Disks,Snapshots,Images,Citrix, XenDesktop,XenApp,Virtual networks ,Load balancers ,Application gateways,Virtual network gateways,Local network gateways,DNS  zones,CDN profiles,Traffic Manager profiles ExpressRoute ,Network Watcher,security groups,Public IP , site to site,On-premises Data  Gateways,Routing,Storage,StorSimple Device Managers ,Recovery Services vaults,Data Lake Storage Gen1,StorSimple Data Managers,Storage Sync  Services,Import/export jobs ,API Management services,CDN profiles,search services,Notification Hubs,Notification Hub  Namespaces,App Service plans,App Service Environments API Connect, ,App Service Certificates,App Service Domains,Media services,Mobile Container services and instances and registries,Azure Cosmos DB,SQL databases,Azure  Database for MySQL servers,Azure Database for PostgreSQL servers SQL servers,SQL data warehouses,Azure Database Migration Services  Github: administration, users, recovery, revisions, updates, changelists, signatures,typemaps,  proxies, flags, server volumes, webui, migrations, remote depots",
+         "DevOps Azure Engineer at eBay June 2018 - September 2018 (4 months)",
+         "Kubernetes clusters in AWS/Google/Azure, Jenkins CI/CD Virtual machines,Availability and scale sets, App Services,Batch accounts,Service Fabric  clusters,Kubernetes , Disks,Snapshots,Images,Citrix, XenDesktop,XenApp,Virtual networks ,Load balancers ,Application gateways,Virtual network gateways,Local network gateways,DNS  zones,CDN profiles,Traffic Manager profiles ExpressRoute ,Network Watcher,security groups,Public IP , site to site,On-premises Data  Gateways,Routing,Storage,StorSimple Device Managers ,Recovery Services vaults,Data Lake Storage Gen1,StorSimple Data Managers,Storage Sync  Services,Import/export jobs",
+         ",API Management services,CDN profiles,search services,Notification Hubs,Notification Hub  Namespaces,App Service plans,App Service Environments API Connections,App Service Certificates,App Service Domains,Media services,Mobile Container services and instances and registries,Azure Cosmos DB,SQL databases,Azure  Database for MySQL servers,Azure Database for PostgreSQL servers SQL servers,SQL data warehouses,Azure Database Migration Services",
+         "Devops Architect/Eliassen Group at Ericsson March 2018 - June 2018 (4 months)",
+         "SCM: Git, perforce, bitbucket, gitlab, github kubernetes, deploying helm charts in kubernetes Monitoring and alerting in a Microservices architecture Docker containers, operating production services, ELK stack. Salt framework 5g &ndash; work with dev groups to architect infrastructure to support their apps CI &ndash; use Jenkins to provide dev groups continuous integration with gitlab of their code to release to  staging, test, prod GCP &ndash; use teraform to automate deployment of pre-configuration managed infra components Python &ndash; write orchestrations perl and bash &ndash; design network and host monitoring apps devoloper Windows and Linux,QA methodology with Web/App/DB/Unix/Linux infrastructures  design and maintain Hadoop, memcache, rabbitmq, redis. Implemented Micro-services using docker and spark administer IDM protection for LDAP and DNS servers, SOX documentation. Backup big data systems Rasiberry Pi rapid design and deployment of servers Docker, mobile QA, cloud devops, scrums,jenkins, groovy,java, Perl, Python, DNS, FTP, DHCP apache,IIS, tomcat, java, jboss VPNaaS( openvpn, cisco, ipsec) Proxy (Squid, apache, python,proxy)",
+         "aws developer/R121 at Comcast January 2018 - March 2018 (3 months)",
+         "Systems Developer Kubernetes clusters in AWS/Google/Azure, Jenkins CI/CD",
+         "&bull; Devops &ndash; work with dev groups to architect infrastructure to support their apps",
+         "&bull; CI &ndash; use Jenkins to provide dev groups continuous integration with codecommit and bitbuck of  their code to release to staging, test, prod &bull; AWS &ndash; use CloudFormation to automate deployment of pre-configuration managed infra  components &bull; Python &ndash; write analytic apps for BI needs &bull; perl and bash &ndash; design network and host monitoring apps &bull; devolope Windows and Linux,QA methodology with Web/App/DB/Unix/Linux infrastructures  &bull; design and maintain Redshift MySQL, memcache, rabbitmq, redis. &bull; Implemented Micro-services using docker and spark &bull; administer IDM protection for LDAP and DNS servers, SOX documentation. &bull; Backup big data systems &bull; aws redshift, athena, kinesis, glue,ec2, emr, Linux and Windows Servers &bull; rapid design and deployment of servers &bull; Azure,joyent, Docker, VMware,cisco, juniper,VPN, qlik,looker, tableu, bi analytics, mobile QA,  cloud devops, scrums,jenkins, &bull; mentor, Linux, Windows Server &bull; groovy,java, Perl, Python, DNS, FTP, DHCP &bull; apache,IIS, tomcat, java, jboss &bull; VPN (sophos, openvpn, cisco, juniper, pulse, paltoalto, ipsec) &bull; Proxy (Squid, apache, python)",
+         "Python Engineer/Varite Inc at Oracle Cloud Technologies September 2017 - December 2017 (4 months)",
+         "Kubernetes clusters in docker, Jenkins CI/CD Maintain xen compute nodes and ZFS filers, workon python orachestrations to help translate company direction into scalable platforms PAAS, IAAS, BDAAS, VPNAAS that can  be leveraged by internal and external development teams. promote best practices such as design  reviews, code QA, secure coding and performance tuning. In addition, and sling production code  as well as proof of concepts (PoCs). implement massive scalable platforms using Java and big data.  Working knowledge of EXADATA, Weblogic, Elastic Search, SOLR/Lucene, SAML and ZFS  containers, Nimbula, Nagios, Puppet, python."
+      ],
+      "education":[
+         "Chabot College",
+         "AA, computer hardware, 1986 - 1989",
+         "Activities and Societies:  soccer,church, running,music"
+      ]
+   },
+   {
+      "name":"Kay Kay",
+      "location":"Washington D.C. Metro Area",
+      "current_position":"US Citizen with Active DHS/CBP-BI Clearance - (Seeking 100% Remote Java DeveloperRole)",
+      "summary":["============**** US Citizen with  Active DHS/CBP-BI Security Clearance ****====================================================================**** Looking for 100% Remote/Telecommute/Work from home opportunities only****What works ✅ 100% Remote (any time zone)  Java Full Stack Backend or Frontend Corp to Corp W2  Fulltime Salaried Contract to hire  24x7 support  What does not work ✅  Onsite Relocation  Partial Remote Travel  ====================================================================Kiran brings around 10+ years of Information Technology experience as a Senior Full Stack Java Developer in planning, analyzing, designing, developing and supporting highly scalable, secured enterprise, ecommerce and Web based applications in multi-tiered distributed environments using JAVA, J2EE, Spring Framework, Spring Boot, Spring Batch, Hibernate, RESTFul Web Services API, ReactJS, Angular 6, NodeJS, MuleSoft, AWS, Kinesis, ElasticSearch, Microservices, Maven, GitLab, JavaScript, HTML5, CSS3, Oracle, MySQL, SQL, NoSQL, PL/SQL and other related Tools and Technologies. ","What works ✅ 100% Remote (any time zone)  Java Full Stack Backend or Frontend Corp to Corp W2   Fulltime Salaried Contract to hire  24x7 support ", "What does not work ✅  Onsite Relocation  Partial Remote Travel   ==================================================================== Kiran brings around 10+ years of Information Technology experience as a Senior Full Stack Java  Developer in planning, analyzing, designing, developing and supporting highly scalable, secured  enterprise, ecommerce and Web based applications in multi-tiered distributed environments using  JAVA, J2EE, Spring Framework, Spring Boot, Spring Batch, Hibernate, RESTFul Web Services  API, ReactJS, Angular 6, NodeJS, MuleSoft, AWS, Kinesis, ElasticSearch, Microservices, Maven,  GitLab, JavaScript, HTML5, CSS3, Oracle, MySQL, SQL, NoSQL, PL/SQL and other related Tools  and Technologies.   "]       "experience":[
+         "Senior Full Stack Java Developer at ATS November 2011  -  Present  (8 years 4 months)",
+         "Java 8 J2EE Java Script  HTML5 CSS3 Angular 6 PL/SQL NoSQL Oracle",
+         "RESTful Webservices Spring Framework  GitLab MuleSoft AWS Kinesis Elasticsearch Maven Junit Eclipse"
+      ],
+      "education":"University of Mysore Bachelor of Engineering - BE"
+   }
+]
