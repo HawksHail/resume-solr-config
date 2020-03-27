@@ -139,6 +139,7 @@
     <field name="notes" type="text_general" indexed="true" stored="true" multiValued="true"/>
 
     <copyField source="name" dest="_text_"/>
+    <copyField source="current_position" dest="_text_"/>
     <copyField source="experience" dest="_text_"/>
     <copyField source="summary" dest="_text_"/>
 
