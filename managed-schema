@@ -134,6 +134,11 @@
 
     <field name="summary" type="text_general" indexed="true" stored="true" multiValued="true"/>
 
+    <field name="references" type="text_general" indexed="true" stored="true" multiValued="true"/>
+
+    <field name="notes" type="text_general" indexed="true" stored="true" multiValued="true"/>
+
+    <copyField source="name" dest="_text_"/>
     <copyField source="experience" dest="_text_"/>
     <copyField source="summary" dest="_text_"/>
 
